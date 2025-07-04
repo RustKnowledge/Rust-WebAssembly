@@ -8,15 +8,10 @@ sudo apt-get install build-essential
 https://stackoverflow.com/questions/70561544/rust-openssl-could-not-find-directory-of-openssl-installation
 
 ```
-sudo apt-get install libssl-dev
+sudo apt-get install libssl-dev pkg-config
 ```
 
-# cargo
-```
-cargo install cargo-generate pkg-config
-```
-
-# Try()
+# Try(cargo)
 ```
 cargo install cargo-generate
 ```
