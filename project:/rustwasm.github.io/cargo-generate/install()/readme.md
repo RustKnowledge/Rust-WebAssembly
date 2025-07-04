@@ -10,3 +10,8 @@ https://stackoverflow.com/questions/70561544/rust-openssl-could-not-find-directo
 ```
 sudo apt-get install libssl-dev
 ```
+
+# cargo
+```
+cargo install cargo-generate
+```
