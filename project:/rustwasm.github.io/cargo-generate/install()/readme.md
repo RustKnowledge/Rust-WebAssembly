@@ -13,5 +13,10 @@ sudo apt-get install libssl-dev
 
 # cargo
 ```
+cargo install cargo-generate pkg-config
+```
+
+# Try()
+```
 cargo install cargo-generate
 ```
