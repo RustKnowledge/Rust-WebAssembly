@@ -15,3 +15,11 @@ sudo apt-get install libssl-dev pkg-config
 ```
 cargo install cargo-generate
 ```
+
+# Nodejs.install()
+
+
+# dependency
+```
+npm install create-wasm-app
+```
