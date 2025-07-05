@@ -11,6 +11,7 @@ cd $name
 wasm-pack build
 ```
 
+# init www/
 ```
 npm init wasm-app www
 ```
